@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.VariableInCSharp", "3.Var
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.ValueTypeVsRefrenceType", "4.ValueTypeVsRefrenceType\4.ValueTypeVsRefrenceType.csproj", "{BE39F500-DA50-49F2-AB54-DC593F2BE09E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.ImplicitlyTypedVariable", "5.ImplicitlyTypedVariable\5.ImplicitlyTypedVariable.csproj", "{70A31982-079F-4F78-AC83-974A3848ECAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BE39F500-DA50-49F2-AB54-DC593F2BE09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE39F500-DA50-49F2-AB54-DC593F2BE09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE39F500-DA50-49F2-AB54-DC593F2BE09E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70A31982-079F-4F78-AC83-974A3848ECAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A31982-079F-4F78-AC83-974A3848ECAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A31982-079F-4F78-AC83-974A3848ECAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A31982-079F-4F78-AC83-974A3848ECAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
