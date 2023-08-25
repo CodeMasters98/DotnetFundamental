@@ -9,6 +9,7 @@
         AddNumbers(5, 10);
         ShowDevider();
         int result = AddNumbers(5, 10);
+        ShowCustomMessage($"Result:{result}");
         ShowDevider();
     }
 
